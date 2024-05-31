@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF054640</color>
+    <color name="purple_500">#FF005d4b</color>
+    <color name="purple_700">#FF06625f</color>
+    <color name="teal_200">#FFbbbbbb</color>
+    <color name="teal_700">#FFaaaaaa</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFBB203C</color>
+    <color name="grey">#FF202020</color>
+
+    <color name="chat_babel">#FF06625F</color>
+</resources>
